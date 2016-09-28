@@ -1,0 +1,20 @@
+*{margin:0; padding:0;}
+#frame{
+	padding-top:3%;
+	
+}
+#frame iframe{
+	width:30%;
+	height:20%;
+	border:2px solid #5CCED6;
+}
+section{
+	padding-top:0;
+	height:1000px;
+}
+#left{
+	height:1000px;
+}
+#right{
+	height:1000px;
+}

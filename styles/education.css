@@ -1,0 +1,39 @@
+*{margin:0; padding:0;}
+
+div{
+	padding:0;
+	}
+	
+section p{
+	padding:0;
+	}
+
+section{
+	padding-top:0;
+	height:980px;
+	}
+
+div p{
+	padding:0%;
+	margin-left:10%;
+	margin-right:10%;
+	}
+	
+div img{
+	width:20%;
+	height:10%;
+	margin:0;
+	padding:0;
+	}
+
+#port{
+	padding-top:5%;
+	}
+
+#left{
+	height:960px;
+	}
+
+#right{
+	height:960px;
+	}
